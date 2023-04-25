@@ -1,5 +1,6 @@
 # security-research
-海通研报付现，债券因子研究
+海通研报付现，债券因子研究（research on bond's factor）
+This project is the realization of the research report of Haitong Securities, and the idea comes from practice. At the same time, it is also the examination of the content of the research report. The final research results are basically consistent with those in the research report.
 ## 
 This project is a personal hobby for sharing and is prohibited for any academic use.
 
